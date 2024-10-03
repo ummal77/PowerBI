@@ -80,11 +80,6 @@ All these values have been ignored while calculating average rating for each of 
  
 ![Screenshot (9)](https://github.com/user-attachments/assets/38e4cfdf-baa3-41e8-91e1-fff54bc2af6a)
 
-# blinkit Dashboard
-
-![blinkit Dashboard](https://github.com/user-attachments/assets/cbec22f8-dae4-4d77-ad5b-91cde4f75977)
-
-
 
 # Insights
 
