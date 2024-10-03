@@ -2,6 +2,10 @@
 
 ### Dashboard Link : https://drive.google.com/file/d/11W3Ncr4eyVB2KlUOrhUsF5EIyctIWK8Q/view?usp=drive_link
 
+# blinkit Dashboard
+
+![blinkit Dashboard](https://github.com/user-attachments/assets/cbec22f8-dae4-4d77-ad5b-91cde4f75977)
+
 ## Problem Statement
 
 This dashboard helps the blinkit understand their customers better. It helps the blinkit know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average Sales, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for further improvement of sales.
