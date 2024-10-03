@@ -1,4 +1,4 @@
-# blinkit-India's Largest Grocery App 
+# blinkit - Grocery App Sales Analysis || Training Participant Analysis
 
 ### Dashboard Link : https://drive.google.com/file/d/11W3Ncr4eyVB2KlUOrhUsF5EIyctIWK8Q/view?usp=drive_link
 
@@ -6,7 +6,15 @@
 
 ![blinkit Dashboard](https://github.com/user-attachments/assets/cbec22f8-dae4-4d77-ad5b-91cde4f75977)
 
-## Problem Statement
+### Dashboad Link : https://drive.google.com/file/d/1FpGHuiQ8syU6xhAIjSr5x2Lk2jtFk8WJ/view?usp=drive_link
+
+# Training Participant Analysis Dashboard
+
+![Training Participant Dashboard](https://github.com/user-attachments/assets/2b47c5ad-4228-49a3-837c-84fd518267d0)
+
+
+
+## Problem Statement -- blinkit
 
 This dashboard helps the blinkit understand their customers better. It helps the blinkit know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average Sales, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for further improvement of sales.
 
@@ -124,6 +132,52 @@ Low Fat Content are sold more than Regular,Fruits and Veggies Hold the Big Sales
  1.3) Tier 3 Cities outlet sales is high as compare to tier 1 and 2
 
 ![out Type](https://github.com/user-attachments/assets/30e4e3de-0fbe-45ce-953b-687295433048)
+
+
+## Problem Statement -- Training Participant Analysis
+
+This dashboard helps the Company to understand their Employees better. It helps company to know their employees participant who is keep upgrading new skills across various teams and under the guidance of various managers
+
+### Steps followed 
+
+- Step 1 : Business Requirement
+- Step 2 : Data Walkthrough
+- Step 3 : Data Connection
+- Step 4 : Data Cleaning/Quality Check
+- Step 5 : Data Modelling
+- Step 6 : Data Processing
+- Step 7 : DAX Calculations
+- Step 8 : Dashboard Layouting
+- Step 9 : Charts Development and Formatting
+- Step 10 : Dashboard/Report Development
+
+  (a) Total Enrolled,Present,Absent,Average
+
+  (b) Training Model
+  
+  (c) Senior Manager
+  
+  (d) Team 
+  
+  (e) Job Level
+  
+  (f) Team wise Participant
+
+  (g) Gender wise participant
+
+  (h)Manager wise participant
+
+  (i)Job level wise participant
+  
+  
+In our dataset, Some parameters were assigned value 0, representing those parameters are not applicable for some customers.
+
+All these values have been ignored while calculating average rating for each of the parameters mentioned above.
+
+# Report Snapshot (Power BI DESKTOP)
+
+ 
+![Screenshot (10)](https://github.com/user-attachments/assets/be8c0ef4-4548-407d-bb35-29385590e429)
 
  
         
